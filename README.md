@@ -18,4 +18,4 @@
 
 ### Get in touch
 [Linkedin](https://www.linkedin.com/in/julius-ngigi-m/)
-[Twitter](@jayenem16)
+🔵 Twitter @jayenem16
