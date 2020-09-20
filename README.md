@@ -10,7 +10,7 @@
 
 ### My tools 🥽 🖥 💻 🗜 🛠
 ```
-   Languages: Dart, Ruby, Javascript
+   Languages: Dart, Python, Ruby, Javascript
    Mobile app development: Flutter
    Machine learning: Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 ```
