@@ -3,7 +3,6 @@
 ### I'm a developer, cook, and a lifetime student
 
 
-- 🌱 I’m currently learning C#, Go, and woodworking 😊
 - 👯 I’m looking to collaborate on design projects
 - 💬 Ask me about baking
 - 😄 Pronouns: He/Him
