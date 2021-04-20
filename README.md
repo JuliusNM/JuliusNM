@@ -2,12 +2,9 @@
 
 ### I'm a developer, cook, and a lifetime student
 
-
-- 👯 I’m looking to collaborate on design projects
 - 💬 Ask me about baking
-- 😄 Pronouns: He/Him
 
-### My tools 🥽 🖥 💻 🗜 🛠
+### My tools 🛠
 ```
    Languages: Dart, Python, Ruby, Javascript
    Mobile app development: Flutter
