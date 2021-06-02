@@ -2,8 +2,6 @@
 
 ### I'm a developer, cook, and a lifetime student
 
-- 💬 Ask me about baking
-
 ### My tools 🛠
 ```
    Languages: Dart, Python, Ruby, Javascript
